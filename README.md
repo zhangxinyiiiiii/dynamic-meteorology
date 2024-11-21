@@ -1,6 +1,10 @@
-# dynamic-meteorology
-Digitize my study notes in dynamic meteorology 
+# meteorology
+digitize my study notes in dynamic meteorology, practice in synoptic meteorology, numerical meteorology
 
-# Learning material:
-1. An introduction to dynamic meteorology, James R. Holton
-2. 
+## reference and earning material:
+1. an introduction to dynamic meteorology, James R. Holton
+2. introduction to atmospheric dynamics
+3. atmospheric flow structure i & ii
+4. atmospheric general circulation
+5. synoptic meteorology
+6. numerical meteorology
